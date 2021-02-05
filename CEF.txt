@@ -1,0 +1,40 @@
+https://portalnuvem.caixa.gov.br/portal/
+http://portalnuvem.caixa.gov.br/
+https://servicosinternos.caixa.gov.br/
+Manual  - VPN AnyConnect Windows 10
+https://servicosinternos.caixa.gov.br/file/VPN_Equipamento_Particular.pdf
+Manual - Microsoft Teams
+https://support.office.com/pt-br/article/Trabalho-inteligente-iniciar-uma-sess%C3%A3o-de-compartilhamento-e-colabora%C3%A7%C3%A3o-6c6506ea-9dcf-490f-8bc6-ac1f3ed97d36
+ibmbr10.coredf.caixa
+2301
+DF7366ET292 antigo
+10.222.4.29 antigo
+
+DF7259ET447 novo
+10.222.4.17 novo
+
+TEAMS
+P634991@corp.caixa.gov.br
+
+
+usando Cisco:
+1 - Conectar
+2 - mstsc - DF7366ET292.corp.caixa.gov.br
+3 - corpcaixa\p634991
+
+
+Para usar CISCO:
+1) instlar o modelo Cisco Any Cponnect completo(arquivo na pasta CEF)
+2) Instalar o antivirus - site no favoritos.
+2) testar
+
+
+
+MAQUINAS ADICIONAIS cetad23
+
+DF7366ET052 - 10.222.4.39
+
+
+wireless cesar
+pietro12
+
